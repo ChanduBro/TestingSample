@@ -7,15 +7,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 
 
 public class TestcasesExec 
 {
-	public static void main(String[] args) throws InterruptedException 
+	public static void main(String[] args) //throws InterruptedException 
 	{
 		
 		System.setProperty("webdriver.chrome.driver","D:\\Automation code\\chromedriver_win32\\chromedriver.exe");
@@ -123,7 +120,7 @@ This will handle the current window that uniquely identifies it within this driv
 		
 		driver.findElement(By.xpath("//*[@id=\"loginPanel\"]/form/div[3]/input")).click();
 		
-		Thread.sleep(100);
+	//	Thread.sleep(100);
 		
 		
 	/// profile ka left section users belongs to whom
