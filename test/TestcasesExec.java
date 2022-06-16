@@ -335,19 +335,31 @@ self	Selects the current node
  * 
  * 
  * 
+ * CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) is a type of security measure known as challenge-response authentication.
+ * CAPTCHAs are tools you can use to differentiate between real users and automated users, such as bots. CAPTCHAs provide challenges that are difficult for computers to perform but relatively easy for humans. For example, 
+ * identifying stretched letters or numbers, or clicking in a specific area.
+ * CAPTCHAs are used by any website that wishes to restrict usage by bots.
  * 
  * 
  * 
+ * Some organizations adopt Agile because they want to increase speed to market, meet customer demand, or increase team productivity. 
+ * In other words, these organizations seek efficiency. 
+ * They want to develop software better, faster, and cheaper
+ * 
+ * The waterfall methodology is a project management approach that emphasises a linear progression from beginning to end of a project. 
+ * This methodology, often used by engineers, is front-loaded to rely on careful planning, detailed documentation, and consecutive execution.
  * 
  * 
+ * The waterfall methodology uses a sequential or linear approach to software development. 
+ * The project is broken down into a sequence of tasks, with the highest level grouping referred to as phases. 
  * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ * A true waterfall approach requires phases that are completed in sequence and have formal exit criteria, typically a sign-off by the project stakeholders.
+ * The 5 Most Common ATM Issues Needing Repair
+Faulty Dispenser. A rare, but exceedingly frustrating issue that can occur is an ATM that has a faulty dispenser. ...
+Worn Out Card Reader. Every bank card or credit card has a dark stripe on the back. ...
+Broken Keypad. ...
+Receipt Malfunctions. ...
+Software Glitches.
  * 
  * 
  * 
