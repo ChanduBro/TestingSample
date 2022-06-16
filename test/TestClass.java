@@ -262,5 +262,7 @@ Finally, display the character and their corresponding frequencies by iterating 
 * https://www.browserstack.com/guide/handle-web-tables-in-selenium
 * 
 * 
+* Pull and rebase commands how it works --- multiple branching conflict how to resolve it
+* 
 */
 
