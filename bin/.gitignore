@@ -1,2 +1,4 @@
-/test/
+/.classpath
+/.project
 /Jenkinsfile.txt
+/test/
