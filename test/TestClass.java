@@ -125,6 +125,7 @@ public static void numberPattern()
 public static void main(String[] args) 
 {
 	// TODO Auto-generated method stub
+	//TestClass s1=new TestClass();
 	reverseUsingChar();
 	reverseUsingStringBuilder();
 	duplicateCharCount();
